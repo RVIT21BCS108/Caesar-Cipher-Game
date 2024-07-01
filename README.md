@@ -1,1 +1,2 @@
-# Caesar-Cipher-Game
+The Caesar Cipher project is a Python-based console application that encrypts and decrypts messages using the Caesar cipher technique. Users can choose to either encode (encrypt) or decode (decrypt) a message by specifying a shift amount. The program handles shift values greater than the number of letters in the alphabet by using the modulus operator to ensure the shifts remain within a valid range. Additionally, the application includes a loop that allows users to perform multiple cipher operations consecutively until they choose to exit. Non-alphabet characters in the input message remain unchanged during the transformation.
+
